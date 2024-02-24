@@ -1,0 +1,14 @@
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.exe
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.deps.json
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.runtimeconfig.json
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.dll
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.pdb
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.AssemblyInfoInputs.cache
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.AssemblyInfo.cs
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.csproj.CoreCompileInputs.cache
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.dll
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\refint\QuickSortAlgorithm.dll
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.pdb
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.genruntimeconfig.cache
+F:\Visual Studio programs\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\ref\QuickSortAlgorithm.dll
